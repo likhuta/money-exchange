@@ -1,4 +1,4 @@
-const assert = require('assert');
+ const assert = require('assert');
 Object.freeze(assert);
 const makeExchange = require('./src/index.js');
 
